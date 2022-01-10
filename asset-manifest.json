@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-redux-material-ui-phone/static/css/main.475fda4e.css",
+    "main.js": "/react-redux-material-ui-phone/static/js/main.6d910165.js",
+    "index.html": "/react-redux-material-ui-phone/index.html",
+    "main.475fda4e.css.map": "/react-redux-material-ui-phone/static/css/main.475fda4e.css.map",
+    "main.6d910165.js.map": "/react-redux-material-ui-phone/static/js/main.6d910165.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.475fda4e.css",
+    "static/js/main.6d910165.js"
+  ]
+}
