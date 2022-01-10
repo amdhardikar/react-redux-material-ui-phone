@@ -1,6 +1,6 @@
 {
    "name": "phonebook-app",
-   "homepage": "https://amdhardikar.github.io/react-redux-material-ui-phone",
+   "homepage": "https://amdhardikar.github.io/react-redux-material-ui-phonebook/",
    "version": "0.1.0",
    "private": true,
    "dependencies": {
