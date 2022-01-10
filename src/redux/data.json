@@ -1,0 +1,79 @@
+[
+   {
+      "id": 1,
+      "number": "9044574148",
+      "fname": "Zelda",
+      "lname": "Briscoe",
+      "dob": "07/22/1952",
+      "email": "zbriscoe0@google.com",
+      "occupation": "Administrative Officer",
+      "designation": "Professor",
+      "favorite": true
+   },
+   {
+      "id": 2,
+      "number": "9666741126",
+      "fname": "Phillie",
+      "lname": "Jaggers",
+      "dob": "12/14/2015",
+      "email": "pjaggers1@ihg.com",
+      "occupation": "VP Quality Control",
+      "designation": "Recruiting Manager",
+      "favorite": false
+   },
+   {
+      "id": 3,
+      "number": "7205302508",
+      "fname": "Stearn",
+      "lname": "Brumen",
+      "dob": "04/24/1982",
+      "email": "sbrumen2@cbc.ca",
+      "occupation": "Product Engineer",
+      "designation": "Professor",
+      "favorite": false
+   },
+   {
+      "id": 4,
+      "number": "8499654048",
+      "fname": "Florrie",
+      "lname": "Eaddy",
+      "dob": "06/16/1987",
+      "email": "feaddy3@delicious.com",
+      "occupation": "Marketing Assistant",
+      "designation": "Tax Accountant",
+      "favorite": true
+   },
+   {
+      "id": 5,
+      "number": "8235860092",
+      "fname": "Saw",
+      "lname": "Zimmermeister",
+      "dob": "05/20/1977",
+      "email": "szimmermeister4@harvard.edu",
+      "occupation": "Database Administrator IV",
+      "designation": "Research Associate",
+      "favorite": false
+   },
+   {
+      "id": 6,
+      "number": "8744458291",
+      "fname": "Alphard",
+      "lname": "Burles",
+      "dob": "11/30/1940",
+      "email": "aburles5@cdbaby.com",
+      "occupation": "Paralegal",
+      "designation": "Programmer Analyst III",
+      "favorite": false
+   },
+   {
+      "id": 7,
+      "number": "7800208612",
+      "fname": "Melisenda",
+      "lname": "Lotte",
+      "dob": "06/22/2019",
+      "email": "mlotte6@w3.org",
+      "occupation": "Technical Writer",
+      "designation": "Cost Accountant",
+      "favorite": true
+   }
+]
